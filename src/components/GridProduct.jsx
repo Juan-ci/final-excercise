@@ -16,9 +16,6 @@ const GridProduct = ({ products }) => {
           <Grid
             key={index}
             item
-            // container
-            // rowSpacing={3}
-            // columnSpacing={{ xs: 0.5, sm: 1, md: 2 }}
             sx={{ padding: 2 }}
             xs={4}
           >
